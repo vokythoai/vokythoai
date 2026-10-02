@@ -7,7 +7,7 @@
 </h1>
 
 <a href="https://github.com/vokythoai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Rails+%7C+Golang+%7C+ReactJS+%7C+DevOps;Based+in+H%E1%BB%93+Ch%C3%AD+Minh+City%2C+Vi%E1%BB%87t+Nam" alt="Senior Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Ruby+%7C+Go+%7C+Rust+%7C+JavaScript+%7C+DevOps;Based+in+H%E1%BB%93+Ch%C3%AD+Minh+City%2C+Vi%E1%BB%87t+Nam" alt="Senior Software Engineer" />
 </a>
 
 <p>
@@ -23,7 +23,7 @@
 
 - 🌍 I'm based in **Hồ Chí Minh City, Việt Nam**
 - 🚀 I'm currently working on [**Plankore**](https://plankore.ai)
-- 🤝 I'm open to collaborating on **Rails, Golang, ReactJS, DevOps**
+- 🤝 I'm open to collaborating on **Ruby, Go, Rust, JavaScript, DevOps**
 - ✉️ You can contact me at [vokythoai@gmail.com](mailto:vokythoai@gmail.com)
 
 ## 🛠️ Skills
